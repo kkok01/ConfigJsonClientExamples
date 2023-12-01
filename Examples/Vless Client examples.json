@@ -24,7 +24,7 @@
             "port": ****,
             "users": [
               {
-                "id": "*-*-*-*-*,
+                "id": "*-*-*-*-*",
                 "alterId": 0,
                 "email": "*@*.**",
                 "security": "auto",
