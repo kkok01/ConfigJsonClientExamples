@@ -1,0 +1,54 @@
+{
+  "log": {
+        "loglevel": "info"
+    },
+  "inbounds": [
+    {
+      "port": 10800,
+      "listen": "0.0.0.0",
+      "protocol": "socks"
+    }
+  ],
+ "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "47.76.178.146",
+            "port": 8443,
+            "users": [
+              {
+                "id": "bb7b7ebe-ad8b-4916-b730-de9d96e5d50b",
+                "encryption": "none",
+                "flow": "",
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "ceb98438-36f6-4f6c-9596-8d0409bbe285.b1e18cfc-f959-4f08-94da-4878c3cd4a5f.mywire.org",
+          "alpn": ["h3"]
+        },
+        "wsSettings": {
+          "path": "/huianboy.pages.dev/?proxyip=proxyip.us.fxxk.dedyn.io",
+        "headers": {
+            "Host": "ceb98438-36f6-4f6c-9596-8d0409bbe285.b1e18cfc-f959-4f08-94da-4878c3cd4a5f.mywire.org"
+          }
+        }
+      }
+	  }
+	  ],
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8",
+      "114.114.114.114"
+    ]
+  }
+}
