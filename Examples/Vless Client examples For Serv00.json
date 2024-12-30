@@ -1,0 +1,60 @@
+{
+  "log": {
+        "loglevel": "info"
+    },
+  "inbounds": [
+    {
+      "port": 7891,
+      "listen": "0.0.0.0",
+      "protocol": "socks"
+    },
+    {
+      "port": 7890,
+      "listen": "0.0.0.0",
+      "protocol": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "128.204.223.116",
+            "port": 12334,
+            "users": [
+              {
+                "id": "1c36c9de-6d87-4f41-a11b-6f064d728918",
+                "alterId": 0,
+                "email": "*@*.**",
+                "security": "auto",
+                "flow": "xtls-rprx-vision",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "www.cerebrium.ai",
+          "fingerprint": "chrome",
+          "show": false,
+          "xver": 0,
+          "publicKey": "1aiab3GjHKx9HJbwg1rqD_QDZ8XhgL2dhqQUCDf07yU",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    }
+    ],
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8",
+      "114.114.114.114"
+    ]
+  }
+}
