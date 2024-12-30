@@ -20,11 +20,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "128.204.223.116",
-            "port": 12334,
+            "address": "****", # 服务器IP
+            "port": ****, # 服务器端口
             "users": [
               {
-                "id": "1c36c9de-6d87-4f41-a11b-6f064d728918",
+                "id": "1c36c9de-6d87-4f41-a11b-6f064d728918", # uuid
                 "alterId": 0,
                 "email": "*@*.**",
                 "security": "auto",
@@ -43,7 +43,7 @@
           "fingerprint": "chrome",
           "show": false,
           "xver": 0,
-          "publicKey": "1aiab3GjHKx9HJbwg1rqD_QDZ8XhgL2dhqQUCDf07yU",
+          "publicKey": "1aiab3GjHKx9HJbwg1rqD_QDZ8XhgL2dhqQUCDf07yU", # pk
           "shortId": "",
           "spiderX": ""
         }
