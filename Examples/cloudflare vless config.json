@@ -15,11 +15,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "47.76.178.146",
-            "port": 8443,
+            "address": "****", # 服务器 IP
+            "port": ****, # 服务器端口
             "users": [
               {
-                "id": "bb7b7ebe-ad8b-4916-b730-de9d96e5d50b",
+                "id": "bb7b7ebe-ad8b-4916-b730-de9d96e5d50b", # UUID
                 "encryption": "none",
                 "flow": "",
                 "level": 0
