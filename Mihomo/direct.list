@@ -6,6 +6,6 @@ DOMAIN-SUFFIX,serv00.com
 DOMAIN-SUFFIX,huianboy.top
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,cloudflare.com
-
+DOMAIN-SUFFIX,cloudflare-cn.com
 # 域名关键字匹配 DOMAIN-KEYWORD
 # 国外DNS
