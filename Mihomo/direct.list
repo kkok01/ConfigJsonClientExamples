@@ -1,16 +1,12 @@
 # 直连补充列表
 
 # 域名后缀匹配 DOMAIN-SUFFIX
-DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,serv00.net
 DOMAIN-SUFFIX,serv00.com
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,api.cleanmasters.store
 DOMAIN-SUFFIX,api.mousegesturesapi.com
 DOMAIN-SUFFIX,adblockplus.org
-DOMAIN-SUFFIX,fontawesome.com
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,promisejs.org
 DOMAIN-SUFFIX,woobia.co.jp
 DOMAIN-SUFFIX,bwh88.net
 DOMAIN-SUFFIX,immersivetranslate.com
