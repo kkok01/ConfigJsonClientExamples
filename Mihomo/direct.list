@@ -1,6 +1,7 @@
 # 直连补充列表
 
 # 域名后缀匹配 DOMAIN-SUFFIX
+DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,serv00.net
 DOMAIN-SUFFIX,serv00.com
 DOMAIN-SUFFIX,huianboy.top
