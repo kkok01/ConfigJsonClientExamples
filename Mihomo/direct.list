@@ -9,5 +9,6 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare-cn.com
 DOMAIN-SUFFIX,api.cleanmasters.store
 DOMAIN-SUFFIX,api.mousegesturesapi.com
+DOMAIN-SUFFIX,adblockplus.org
 # 域名关键字匹配 DOMAIN-KEYWORD
 # 国外DNS
