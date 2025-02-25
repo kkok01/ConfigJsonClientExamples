@@ -17,5 +17,6 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,promisejs.org
 DOMAIN-SUFFIX,woobia.co.jp
+DOMAIN-SUFFIX,pusher.com
 # 域名关键字匹配 DOMAIN-KEYWORD
 # 国外DNS
