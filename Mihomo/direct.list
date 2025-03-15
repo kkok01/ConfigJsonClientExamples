@@ -1,14 +1,10 @@
 # 直连补充列表
 
 # 域名后缀匹配 DOMAIN-SUFFIX
-DOMAIN-SUFFIX,bwh88.net
 DOMAIN-SUFFIX,mfrjz.com
-DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,api.cleanmasters.store
 DOMAIN-SUFFIX,api.mousegesturesapi.com
 DOMAIN-SUFFIX,adblockplus.org
-DOMAIN-SUFFIX,woobia.co.jp
-DOMAIN-SUFFIX,bwh88.net
 DOMAIN-SUFFIX,immersivetranslate.com
 # 域名关键字匹配 DOMAIN-KEYWORD
 # 国外DNS
