@@ -1,0 +1,48 @@
+# SS
+- name: " 🐸 SS"
+  type: ss
+  server: 194.87.69.122
+  port: 19111
+  cipher: aes-256-gcm
+  password: "560b7d65c1f4b12a"
+  udp: true
+  udp-over-tcp: false
+  udp-over-tcp-version: 2
+  ip-version: ipv4
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+  smux:
+    enabled: false
+
+# Vless ws
+- name: "🐸 Vless"
+  type: vless
+  server: 194.87.69.122
+  port: 443
+  uuid: 33333333-3333-3333-3333-333333333333
+  udp: false
+  tls: true
+  network: ws
+  client-fingerprint: randomized
+  servername: "p.cityq.us.kg"
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ""p.cityq.us.kg"  
+      
+# Vless reality
+- name: "🐸 Vless reality"
+  type: vless
+  server: 194.87.69.122
+  port: 98575
+  uuid: 33333333-3333-3333-3333-333333333333
+  network: tcp
+  tls: true
+  tcp: true
+  flow: xtls-rprx-vision
+  servername: www.cloudflare.com
+  encryption: none
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR80oxftqdo1kzL-1_hGJKfqrOliCY
+  client-fingerprint: chrome 
