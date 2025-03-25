@@ -46,3 +46,28 @@
   reality-opts:
     public-key: qhTzYYIgBzDLNYR80oxftqdo1kzL-1_hGJKfqrOliCY
   client-fingerprint: chrome 
+
+# tuic
+- name: " 🐸 tuic"
+  server: 194.87.69.122
+  port: 12345
+  type: tuic
+  uuid: bc97f674-c578-4940-9234-0a1da46041b0
+  password: admin
+  alpn: [h3]
+  disable-sni: true
+  reduce-rtt: true
+  request-timeout: 8000
+  udp-relay-mode: native
+  congestion-controller: bbr
+  skip-cert-verify: true
+  sni: www.bing.com
+
+# hysteria2
+- name: "🐸 hysteria2"
+  type: hysteria2
+  server: 194.87.69.122
+  port: 12345
+  password: bc97f674-c578-4940-9234-0a1da46041b0
+  sni: www.bing.com
+  skip-cert-verify: true
