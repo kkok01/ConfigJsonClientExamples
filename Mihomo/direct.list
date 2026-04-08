@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,cityq.cloudns.ch
 # 域名关键字匹配 DOMAIN-KEYWORD
 # 国外DNS
+IP-CIDR,45.92.29.91/32
