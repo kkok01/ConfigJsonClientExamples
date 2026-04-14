@@ -9,5 +9,6 @@ DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,cityq.cloudns.ch
 DOMAIN-SUFFIX,canirun.ai
 DOMAIN-SUFFIX,lmstudio.ai
+DOMAIN-SUFFIX,ollama.com
 # 域名关键字匹配 DOMAIN-KEYWORD
 # 国外DNS
