@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,smart.cityq.xyz
 DOMAIN-SUFFIX,catvod.com
+IP-CIDR,51.79.176.52/32,no-resolve
 IP-CIDR,66.90.99.154/32,no-resolve
 IP-CIDR,198.16.100.186/32,no-resolve
 IP-CIDR,50.7.92.106/32,no-resolve
