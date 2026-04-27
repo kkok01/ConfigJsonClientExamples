@@ -10,3 +10,4 @@ IP-CIDR,144.217.67.17/32,no-resolve
 IP-CIDR,64.94.95.226/32,no-resolve
 IP-CIDR,5.231.31.4/32,no-resolve
 IP-CIDR,103.19.232.92/32,no-resolve
+DOMAIN-SUFFIX,chshapi.cn
