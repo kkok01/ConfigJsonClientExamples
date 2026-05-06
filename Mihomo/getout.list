@@ -11,3 +11,5 @@ IP-CIDR,64.94.95.226/32,no-resolve
 IP-CIDR,5.231.31.4/32,no-resolve
 IP-CIDR,103.19.232.92/32,no-resolve
 IP-CIDR,172.96.14.120/32,no-resolve
+
+DOMAIN-SUFFIX,proxiesfood.com
