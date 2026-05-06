@@ -12,6 +12,6 @@ DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,conda.io
 DOMAIN-SUFFIX,anaconda.net.cn
-DOMAIN-SUFFIX,proxiesfood.com
+
 # 域名关键字匹配 DOMAIN-KEYWORD
 # 国外DNS
