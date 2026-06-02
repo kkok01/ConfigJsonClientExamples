@@ -15,7 +15,9 @@ IP-CIDR,37.114.50.148/32,no-resolve
 IP-CIDR,5.231.70.81/32,no-resolve
 IP-CIDR,4.94.95.226/32,no-resolve
 IP-CIDR,47.110.88.162/32,no-resolve
+IP-CIDR,146.103.77.169/32,no-resolve
 
 DOMAIN-SUFFIX,proxiesfood.com
 DOMAIN-SUFFIX,cq444.me
 DOMAIN-SUFFIX,m1f2.hosiang.com
+DOMAIN-SUFFIX,wlt.wjinhaomuxi.com
