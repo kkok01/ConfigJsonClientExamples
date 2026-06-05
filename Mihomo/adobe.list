@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,service.account.adobe.com
 DOMAIN-SUFFIX,abp-profile-service.adobe.io
 DOMAIN-SUFFIX,aos.adobe.io
 
+DOMAIN-SUFFIX,nr-bam.pswdata.com
 DOMAIN-SUFFIX,lm.licenses.adobe.com
 DOMAIN-SUFFIX,resources.licenses.adobe.com
 DOMAIN-SUFFIX,cs.licenses.adobe.com
