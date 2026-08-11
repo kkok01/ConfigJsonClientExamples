@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,eastwest.bankonline.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,static.licdn.com
 DOMAIN-SUFFIX,usvisascheduling.com
-DOMAIN-SUFFIX,WeTransfer.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
