@@ -22,7 +22,8 @@ IP-CIDR,47.243.243.248/32,no-resolve
 IP-CIDR,47.242.118.239/32,no-resolve
 IP-CIDR,101.200.36.218/32,no-resolve
 
-DOMAIN-SUFFIX,http://bellabuzz.net/
+DOMAIN-SUFFIX,hexfuture.net
+DOMAIN-SUFFIX,http://bellabuzz.net
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,icanhazip.com
 DOMAIN-SUFFIX,ipinfo.io
