@@ -23,6 +23,7 @@ IP-CIDR,101.200.36.218/32,no-resolve
 IP-CIDR,112.74.1.140/32,no-resolve
 IP-CIDR,8.0.0.0/8,no-resolve
 
+DOMAIN-SUFFIX,xiaomingtaiji.cn
 DOMAIN-SUFFIX,hiseas.com
 DOMAIN-SUFFIX,fosunhanig.com
 DOMAIN-SUFFIX,qmgxyf.com
