@@ -21,7 +21,11 @@ IP-CIDR,8.218.54.204/32,no-resolve
 IP-CIDR,47.243.243.248/32,no-resolve
 IP-CIDR,47.242.118.239/32,no-resolve
 IP-CIDR,101.200.36.218/32,no-resolve
+IP-CIDR,112.74.1.140/32,no-resolve
 
+DOMAIN-SUFFIX,hiseas.com
+DOMAIN-SUFFIX,fosunhanig.com
+DOMAIN-SUFFIX,qmgxyf.com
 DOMAIN-SUFFIX,hexfuture.net
 DOMAIN-SUFFIX,http://bellabuzz.net
 DOMAIN-SUFFIX,aliyuncs.com
