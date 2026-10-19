@@ -24,6 +24,7 @@ IP-CIDR,112.74.1.140/32,no-resolve
 IP-CIDR,8.0.0.0/8,no-resolve
 IP-CIDR,34.149.191.237/32,no-resolve
 
+DOMAIN-SUFFIX,dungeon-hereos.com
 DOMAIN-SUFFIX,qidianlc.com
 DOMAIN-SUFFIX,trplus-health.com
 DOMAIN-SUFFIX,xiaomingtaiji.cn
