@@ -17,12 +17,11 @@ IP-CIDR,4.94.95.226/32,no-resolve
 IP-CIDR,47.110.88.162/32,no-resolve
 IP-CIDR,146.103.77.169/32,no-resolve
 IP-CIDR,204.76.203.0/32,no-resolve
-IP-CIDR,8.218.54.204/32,no-resolve
 IP-CIDR,47.243.243.248/32,no-resolve
 IP-CIDR,47.242.118.239/32,no-resolve
 IP-CIDR,101.200.36.218/32,no-resolve
 IP-CIDR,112.74.1.140/32,no-resolve
-IP-CIDR,8.218.56.206/32,no-resolve
+IP-CIDR,8.0.0.0/8,no-resolve
 
 DOMAIN-SUFFIX,hiseas.com
 DOMAIN-SUFFIX,fosunhanig.com
