@@ -26,6 +26,7 @@ IP-CIDR,61.146.48.34/32,no-resolve
 IP-CIDR,8.210.207.114/32,no-resolve
 IP-CIDR,47.243.242.0/32,no-resolve
 
+DOMAIN-SUFFIX,bruendl.at
 DOMAIN-SUFFIX,veryprint.cn
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,api.crxmouse.com
