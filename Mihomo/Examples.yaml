@@ -15,7 +15,7 @@
   smux:
     enabled: false
 
-# Vless ws
+# VLESS + WebSocket (WS) + TLS
 - name: "🐸 Vless"
   type: vless
   server: 194.87.69.122
@@ -31,7 +31,7 @@
     headers:
       Host: ""p.cityq.us.kg"  
       
-# Vless reality
+# VLESS + XTLS-Reality
 - name: "🐸 Vless reality"
   type: vless
   server: 194.87.69.122
@@ -47,6 +47,17 @@
     public-key: qhTzYYIgBzDLNYR80oxftqdo1kzL-1_hGJKfqrOliCY
   client-fingerprint: chrome 
 
+# VLESS (TCP直连，无加密)
+- name: "🐸 Vless"
+  type: vless
+  server: 194.87.69.122
+  port: 443   
+  uuid: 33333333-3333-3333-3333-333333333333
+  tls: false
+  client-fingerprint: firefox
+  skip-cert-verify: true
+  udp: true
+  
 # tuic
 - name: " 🐸 tuic"
   server: 194.87.69.122
@@ -71,3 +82,14 @@
   password: bc97f674-c578-4940-9234-0a1da46041b0
   sni: www.bing.com
   skip-cert-verify: true
+
+# anytls
+- name: "🐸 anytls"
+  type: anytls
+  server: 194.87.69.122
+  port: 12345
+  password: bc97f674-c578-4940-9234-0a1da46041b0
+  sni: www.bing.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
