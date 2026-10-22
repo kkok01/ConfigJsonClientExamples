@@ -26,6 +26,7 @@ IP-CIDR,61.146.48.34/32,no-resolve
 IP-CIDR,8.210.207.114/32,no-resolve
 IP-CIDR,47.243.0.0/16,no-resolve
 IP-CIDR,8.218.37.116/32,no-resolve
+IP-CIDR,162.159.153.9/32,no-resolve
 
 DOMAIN-SUFFIX,bruendl.at
 DOMAIN-SUFFIX,veryprint.cn
