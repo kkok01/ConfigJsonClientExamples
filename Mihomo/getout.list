@@ -28,7 +28,6 @@ SRC-IP-CIDR,8.0.0.0/8,no-resolve
 DOMAIN-SUFFIX,bruendl.at
 DOMAIN-SUFFIX,veryprint.cn
 DOMAIN-SUFFIX,mixpanel.com
-DOMAIN-SUFFIX,api.crxmouse.com
 DOMAIN-SUFFIX,univ-avignon.fr
 DOMAIN-SUFFIX,meishubao.com
 DOMAIN-SUFFIX,yintaerp.com
